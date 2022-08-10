@@ -1,4 +1,4 @@
-# Discord-spam-bot-master
+# Discord-bot-master
 Discord spam bots with multiple account support, account creator, auto-join, proxies, mass direct message and more. 
 
 If you find this bot useful, please consider donating any token of values of our 
