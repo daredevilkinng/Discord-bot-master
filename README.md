@@ -3,7 +3,7 @@ Discord spam bots with multiple account support, account creator, auto-join, pro
 
 If you find this bot useful, please consider donating any token of values of our 
 BSC wallet : 0x5ec1fe30541fa3f1f804fe40fd81323e26f380ba 
-Just an example, some paid Discord bots cost ~ $499, with additional features.
+Just an example, some paid Discord bots cost ~ $199, with additional features.
 
 # BSC wallet : 0x5ec1fe30541fa3f1f804fe40fd81323e26f380ba
 
